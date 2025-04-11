@@ -83,9 +83,8 @@
 
 ###
 <div align="center">
-<h3>Number of People who Viewed the Profile</h3>
-
-  <a><img   src="https://profile-counter.glitch.me/Meghraj-parashar/count.svg?"  /></a>
+  <img src="https://profile-counter.glitch.me/ninjaBlazer/count.svg?"  />
 </div>
 
+###
 ###
